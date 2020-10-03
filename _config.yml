@@ -302,6 +302,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+ - jemoji
 
 # HTML Compression
 # - http://jch.penibelst.de/
