@@ -26,6 +26,6 @@ Languages
 English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermediate).
 
 
-You can find a full CV: [here](https://www.parisschoolofeconomics.eu/docs/shabayek-shaden/resume-shabayek-shaden.pdf). 
--- 
+You can find a more detailed CV: [here](https://www.parisschoolofeconomics.eu/docs/shabayek-shaden/resume-shabayek-shaden.pdf). 
+- 
 
