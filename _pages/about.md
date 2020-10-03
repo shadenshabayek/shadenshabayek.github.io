@@ -17,7 +17,7 @@ Social and Economic Networks, Opinion Dynamics.
 Want to get in touch with me?
 --
 * If you are also a fan of postcards and letters: Paris School of Economics, Office R6-59, 48 boulevard Jourdan, 75014 Paris France.
-* But email is fine : shadenshabayek@hotmail.com
+* If you prefer emails : shadenshabayek@hotmail.com
 
 
 
