@@ -21,4 +21,11 @@ Education
 * B.S. in Economics, Pantheon-Sorbonne Paris I, 2012
 
   
-  
+Languages
+---
+English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermediate).
+
+
+You can find a full CV: [here](https://www.parisschoolofeconomics.eu/docs/shabayek-shaden/resume-shabayek-shaden.pdf). 
+-- 
+
