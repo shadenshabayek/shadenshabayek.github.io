@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -302,7 +303,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
- - jemoji
+
 
 # HTML Compression
 # - http://jch.penibelst.de/
