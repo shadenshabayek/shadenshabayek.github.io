@@ -15,10 +15,10 @@ Education
 * PhD Candidate - Paris School of Economics, Paris I, 2021 (expected)
   * Thesis title: Essays on social networks under incomplete information
   * Thesis Supervisor: prof. Francis Bloch
-* M.A (Master II) Analysis and Policy in Economics, Paris School of Economics, EHESS, 2015
-* M.A (Master I) Theoretical and Empirical Economics, Pantheon-Sorbonne, Paris I, 2014
-* B.S. in Mathematics, Universite Pierre et Marie Curie, Paris VI, 2013
-* B.S. in Economics, Pantheon-Sorbonne, Paris I, 2012
+* M.A (Master II) Analysis and Policy in Economics, Paris School of Economics EHESS, 2015
+* M.A (Master I) Theoretical and Empirical Economics, Pantheon-Sorbonne Paris I, 2014
+* B.S. in Mathematics, Universite Pierre et Marie Curie Paris VI, 2013
+* B.S. in Economics, Pantheon-Sorbonne Paris I, 2012
 
   
 Talks
