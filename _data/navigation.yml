@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Research"
+  - title: ":mag_right:"
     url: /research/
 
-  - title: "Talks"
+  - title: ":microphone:"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: ":woman_teacher:"
     url: /teaching/    
     
-  - title: "CV"
+  - title: ":woman_student:"
     url: /cv/
     
