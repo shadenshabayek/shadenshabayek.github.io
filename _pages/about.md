@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Iam a Phd student at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/).
+I am a Phd student at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/).
 
 Research interests
 ======
