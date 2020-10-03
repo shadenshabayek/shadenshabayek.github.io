@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 
 * PhD Candidate - Paris School of Economics, Paris I, 2021 (expected)
   * Thesis title: Essays on social networks under incomplete information
@@ -22,7 +22,7 @@ Education
 
   
 Talks
-======
+---
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
