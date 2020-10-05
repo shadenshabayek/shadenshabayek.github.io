@@ -12,13 +12,13 @@ redirect_from:
 Teaching Assistant - [Pantheon-Sorbonne Paris I](http://www.pantheonsorbonne.fr/) (2016-2021)
 ---
 
-* Mathematics, bachelor level.
-* Statistics, bachelor level.
-* Social protection, bachelor level.
+* Mathematics, undergraduate/bachelor level.
+* Statistics, undergraduate/bachelor level.
+* Social protection, undergraduate/bachelor level.
 
 Teaching Assistant - [Louvain School of Management](https://uclouvain.be/fr/facultes/lsm) (2015-2016)
 ---
 
-* Management Science, bachelor level.
-* Econometrics, masters level.
+* Management Science, undergraduate/bachelor level.
+* Econometrics, graduate/masters level.
 
