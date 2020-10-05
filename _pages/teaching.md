@@ -14,7 +14,7 @@ Teaching Assistant - [Pantheon-Sorbonne Paris I](http://www.pantheonsorbonne.fr/
 
 * Mathematics, undergraduate/bachelor level.
 * Statistics, undergraduate/bachelor level.
-* Social protection, undergraduate/bachelor level.
+* Social protection systems, undergraduate/bachelor level.
 
 Teaching Assistant - [Louvain School of Management](https://uclouvain.be/fr/facultes/lsm) (2015-2016)
 ---
