@@ -23,6 +23,6 @@ Working papers
 Work in progress 
 ---
 
-* Strategic cultural migration with peer effects, joint with Alexia Lochmann (2020)
+* Strategic cultural migration with peer effects, joint with Alexia Lochmann (2020).
   
   
