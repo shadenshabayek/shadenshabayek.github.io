@@ -12,7 +12,7 @@ redirect_from:
 Education
 ---
 
-* PhD Candidate - Paris School of Economics, Paris I, 2021 (expected)
+* PhD Candidate - Paris School of Economics, Paris I, 2021 
   * Thesis title: Essays on social networks 
   * Thesis Supervisor: prof. [Francis Bloch](https://www.sites.google.com/site/francisbloch1/)
 * M.A (Master II) Analysis and Policy in Economics, Paris School of Economics EHESS, 2015
