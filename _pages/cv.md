@@ -29,3 +29,4 @@ English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermedi
 You can find a more detailed CV: [here](https://shadenshabayek.github.io/files/cv_Shaden_Shabayek.pdf). 
 - 
 
+<a href="shadenshabayek.github.io/files/cv_Shaden_Shabayek.pdf" target="_blank">PDF.</a>
