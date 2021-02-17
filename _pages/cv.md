@@ -26,6 +26,6 @@ Languages
 English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermediate).
 
 
-You can find a more detailed CV: [here]('https://shadenshabayek.github.io/files/cv_Shaden_Shabayek.pdf'). 
+You can find a more detailed CV: [here](https://shadenshabayek.github.io/files/cv_Shaden_Shabayek.pdf). 
 - 
 
