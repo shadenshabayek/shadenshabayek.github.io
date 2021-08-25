@@ -12,8 +12,8 @@ redirect_from:
 Education
 ---
 
-* PhD Candidate - Paris School of Economics, Paris I, 2021 
-  * Thesis title: Essays on social networks 
+* PhD [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/), [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), 2021 
+  * Thesis title: Behavior, Opinion Formation & Cultural Identity in Social Networks 
   * Thesis Supervisor: prof. [Francis Bloch](https://www.sites.google.com/site/francisbloch1/)
 * M.A (Master II) Analysis and Policy in Economics, Paris School of Economics EHESS, 2015
 * M.A (Master I) Theoretical and Empirical Economics, Pantheon-Sorbonne Paris I, 2014
