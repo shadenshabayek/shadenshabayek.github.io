@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Phd student at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/).
+I am a post-doctoral researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/en/).
 
 Research interests
 --
-Social and Economic Networks, Opinion Dynamics.
+Social Networks, Opinion Dynamics, Misinformation.
 
 Do you want to get in touch with me?
 --
-* If you are also a fan of postcards and letters: Paris School of Economics, Office R6-59, 48 boulevard Jourdan, 75014 Paris France.
-* If you prefer emails : shaden.shabayek@psemail.eu
+* If you are also a fan of postcards and letters: *Address coming soon*.
+* If you prefer emails : shaden.shabayek@sciencespo.fr
 
 
 
