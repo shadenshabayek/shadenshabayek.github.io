@@ -15,6 +15,7 @@ Education
 * PhD, [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/), [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), 2021 
   * Thesis title: Behavior, Opinion Formation & Cultural Identity in Social Networks 
   * Thesis Supervisor: prof. [Francis Bloch](https://www.sites.google.com/site/francisbloch1/)
+* Diplôme de l'Ecole Normale Supérieure de Cachan, 2016
 * M.A (Master II) Analysis and Policy in Economics, Paris School of Economics EHESS, 2015
 * M.A (Master I) Theoretical and Empirical Economics, Pantheon-Sorbonne Paris I, 2014
 * B.S. in Mathematics, Universite Pierre et Marie Curie Paris VI, 2013
