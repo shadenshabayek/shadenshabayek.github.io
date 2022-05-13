@@ -28,8 +28,13 @@ Languages
 ---
 English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermediate).
 
+Skills & co. 
+---
+Python & Matlab
 
-You can find a more detailed CV: <a href="https://shadenshabayek.github.io/files/cv_shaden.pdf" target="_blank">here.</a> 
+Need a more detailed CV ? 
+---
+Click <a href="https://shadenshabayek.github.io/files/cv_shaden.pdf" target="_blank">here.</a> 
 - 
 
 
