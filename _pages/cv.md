@@ -35,6 +35,6 @@ Python & Matlab
 Need a more detailed CV ? 
 ---
 Click <a href="https://shadenshabayek.github.io/files/cv_shaden.pdf" target="_blank">here.</a> 
-- 
+
 
 
