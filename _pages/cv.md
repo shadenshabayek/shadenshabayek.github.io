@@ -30,7 +30,7 @@ English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermedi
 
 Skills & co. 
 ---
-Python & Matlab
+Python (advanced) & Matlab (advanced)
 
 Need a more detailed CV ? 
 ---
