@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Guest Lecturer (teaching seminar) (2021-2022)
+Guest Lecturer / teaching seminar (2021-2022)
 ---
 
 * Fake News, Rumors & Information diffusion, one lecture, undergraduate level (Université Paris sud)
