@@ -20,4 +20,4 @@ redirect_from:
 * 5th Annual [Conference](https://drive.google.com/file/d/1a7_-N_Vx5XbYDPymIQzWh_ksuvp5b8FY/view) on Network Science in Economics, Bloomington, USA, April 2019
 * [Spring Meetings of Young Economists](https://eaye.weebly.com/), Brussels, Belguim, April 2019
 * CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/), Paris , France, September 2018
-* [Summer School on Network Theory CIGNE](https://sites.google.com/site/cigneworkshop2017/), Roscoff, France
+* [Summer School on Network Theory CIGNE](https://sites.google.com/site/cigneworkshop2017/), Roscoff, France, 2017
