@@ -10,6 +10,7 @@ redirect_from:
 
 I am a post-doctoral researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/en/).
 
+:memo: I am looking for a post-doc starting October 2022, if your team is looking to welcome someone on board who is passionate about applying mixed methods to investigate phenomena that are urgent to tackle today for our society, I would be happy to share with you a detailed research project! 
 
 Research interests
 --
