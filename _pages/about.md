@@ -14,7 +14,7 @@ Research interests
 --
 Social Networks, Opinion Dynamics, Misinformation, Ignorance studies. 
 
-:alarm_clock: :memo: I am looking for a post-doc starting October 2022, if your team is looking to welcome someone on board, who is **passionate** about applying mixed methods to investigate phenomena that are urgent to tackle today for our society, I would be happy to share with you a detailed research project! 
+:alarm_clock: :memo: I am looking for a post-doc position starting October 2022, if your team is looking to welcome someone on board, who is **passionate** about applying mixed methods to investigate phenomena that are urgent to tackle today for our society, I would be happy to share with you my detailed research project! 
 
 
 Do you want to get in touch with me?
