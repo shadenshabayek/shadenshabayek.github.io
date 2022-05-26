@@ -10,6 +10,7 @@ redirect_from:
 
 I am a post-doctoral researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/en/).
 
+
 Research interests
 --
 Social Networks, Opinion Dynamics, Misinformation, Ignorance. 
