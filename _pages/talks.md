@@ -13,7 +13,7 @@ redirect_from:
 * Medialab [seminar](https://medialab.sciencespo.fr/en/news/suivi-des-interventions-liees-a-la-desinformation-sur-les-principales-plateformes-de-medias-sociaux/), Sciences Po, Paris, France, September 2021
 * CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/) (online), Paris , France , June 2020
 * TOM [seminar](https://www.parisschoolofeconomics.eu/en/research/seminars/lunch-s-theory-organisation-markets-tom/), Paris School of Economics (online), Paris, France , June 2020
-* Conference on Economic Design, Budapest, Hungary, June 2019
+* [Conference](http://mechanismdesign.eu/uncoming-events/conference-on-economic-design-of-sed/163/) on Economic Design, Budapest, Hungary, June 2019
 * Coalition Theory Network 24th [Conference](http://www.coalitiontheory.net/content/24th-coalition-theory-network-workshop), Aix-en-Provence, France, May 2019
 * Networks reading group, University of Cambridge, Cambridge, UK, May 2019
 * 5th Annual [Conference](https://drive.google.com/file/d/1a7_-N_Vx5XbYDPymIQzWh_ksuvp5b8FY/view) on Network Science in Economics, Bloomington, USA, April 2019
