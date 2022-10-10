@@ -11,12 +11,11 @@ redirect_from:
 
 Research
 ---
+*[Digital Platforms’ Governance: missing data & information to monitor, audit & investigate platforms’ misinformation interventions](https://hal-sciencespo.archives-ouvertes.fr/hal-03711842), Policy Brief Series, De Facto Observatory of Information, with H. Théro, E. Vincent (2022)
 
 * [Measuring the effect of Facebook’s downranking interventions against groups and websites that repeatedly share misinformation](https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/), Harvard Kennedy Misinformation Review, with H. Théro and E. Vincent (2022).
 
 * [Monitoring misinformation related interventions by Facebook, Twitter and YouTube: methods and illustration.](https://hal.archives-ouvertes.fr/hal-03662191), with H. Thero, D. AlManla, & E. Vincent (2022).
-
-* Climate discourse on Twitter: alternative content moderation, with E. Vincent (2022).
 
 * Hidden opinions: a behavioral foundantion for opinion polarization (2020).
 
