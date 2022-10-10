@@ -11,7 +11,8 @@ redirect_from:
 
 Research
 ---
-*[Digital Platforms’ Governance: missing data & information to monitor, audit & investigate platforms’ misinformation interventions](https://hal-sciencespo.archives-ouvertes.fr/hal-03711842), Policy Brief Series, De Facto Observatory of Information, with H. Théro, E. Vincent (2022)
+
+* [Digital Platforms’ Governance: missing data & information to monitor, audit & investigate platforms’ misinformation interventions](https://hal-sciencespo.archives-ouvertes.fr/hal-03711842), Policy Brief Series, De Facto Observatory of Information, with H. Théro, E. Vincent (2022)
 
 * [Measuring the effect of Facebook’s downranking interventions against groups and websites that repeatedly share misinformation](https://misinforeview.hks.harvard.edu/article/measuring-the-effect-of-facebooks-downranking-interventions-against-groups-and-websites-that-repeatedly-share-misinformation/), Harvard Kennedy Misinformation Review, with H. Théro and E. Vincent (2022).
 
@@ -24,6 +25,8 @@ Research
 
 Work in progress 
 ---
+
+* Online climate discourses in interaction
 
 * Strategic cultural migration with peer effects, joint with Alexia Lochmann (2020).
 
