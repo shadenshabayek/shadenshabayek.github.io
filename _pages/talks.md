@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Interactions [Seminar](https://www.amse-aixmarseille.fr/fr/evenements/shaden-shabayek), AMSE, Marseille, France, June 2022
+* Interactions [seminar](https://www.amse-aixmarseille.fr/fr/evenements/shaden-shabayek), AMSE, Marseille, France, June 2022
 * De Facto [seminar](https://defacto-observatoire.fr/Actus/Vendredi-3-juin-troisieme-seminaire-de-recherche-DE-FACTO/), Sciences Po, Paris, France, June 2022
 * ICA Pre-[Conference](https://citap.unc.edu/ica-preconference-2022/): What Comes After Disinformation Studies? Paris, France, May 2022
 * Coalition Theory Network 25th [Conference](https://ctn2022.sciencesconf.org/data/pages/CTN_1.pdf), Barcelona, Spain, May 2022
