@@ -30,4 +30,4 @@ Current & Future Research agenda :bulb:
 
 * I am passionate about understanding opinion dynamics especially the drivers of **opinions polarization**. 
 * I am also interested in misinformation with a special focus on actors, reactance to misinformation policies on mainstream platforms and migration towards **alternative platforms** such as Telegram. 
-* I am more and more interested in combining qualitative and quantitive methods. I also look forward to study the (strong) connection between the online climate discourse and the “offline” climate discourse.
+* I am more and more interested in combining qualitative and quantitive methods. 
