@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+Lecturer (fall 2022)
+---
+
+* Digital Culture: ccourse coordinated by Thomas Tari and Dominique Cardon (Sciences Po, Reims campus) 
 
 Guest Lecturer / teaching seminar (2021-2022)
 ---
