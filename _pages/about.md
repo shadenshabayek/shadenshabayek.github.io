@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at Université Paris-Saclay and associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/en/).
+I am a post-doctoral researcher at Université Paris-Saclay and associate researcher at SciencesPo Médialab.
 
 Research interests
 --
