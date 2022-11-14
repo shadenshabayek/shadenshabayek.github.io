@@ -18,7 +18,7 @@ Research
 
 * [Monitoring misinformation related interventions by Facebook, Twitter and YouTube: methods and illustration.](https://hal.archives-ouvertes.fr/hal-03662191), with H. Thero, D. AlManla, & E. Vincent (2022).
 
-* Hidden opinions: a behavioral foundantion for opinion polarization (2020).
+* A model of Elite interactions and Hidden Opininions (2022)
 
 * [Targeting in social networks with anonymized information](https://arxiv.org/abs/2001.03122),  with F. Bloch (2019).
 
