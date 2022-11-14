@@ -12,8 +12,6 @@ redirect_from:
 Diplomas
 ---
 
-* Qualification aux fonctions de maître de conférence (section 05 CNU), 2022
-  * Pre-examination in the French academic system to become a permanent lecturer
 * PhD, [Pantheon-Sorbonne](http://www.pantheonsorbonne.fr/), [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), 2021 
   * Thesis title: Behavior, Opinion Formation & Cultural Identity in Social Networks 
   * Thesis Supervisor: prof. [Francis Bloch](https://www.sites.google.com/site/francisbloch1/)
@@ -26,15 +24,12 @@ Diplomas
   
 Languages
 ---
-English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (Intermediate).
+English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (basic).
 
 Skills & co. 
 ---
 Python (advanced) & Matlab (advanced)
 
-Need a more detailed CV ? 
----
-Click <a href="https://shadenshabayek.github.io/files/cv_shaden.pdf" target="_blank">here.</a> 
 
 
 
