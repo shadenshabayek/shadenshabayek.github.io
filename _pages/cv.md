@@ -21,11 +21,6 @@ Diplomas
 * B.S. in Mathematics, Universite Pierre et Marie Curie Paris VI, 2013
 * B.S. in Economics, Pantheon-Sorbonne Paris I, 2012
 
-  
-Languages
----
-English (fluent), French (fluent), Arabic (fluent, Egyptian), Spanish (basic).
-
 Skills & co. 
 ---
 Python (advanced) & Matlab (advanced)
