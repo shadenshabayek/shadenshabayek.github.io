@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Lecturer (fall 2022)
 ---
 
