@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Academic positions
 ---
 * Post-doctoral researcher - RITM Université Paris-Saclay, Sep 2022 - current.
