@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+Academic positions
+---
+* Post-doctoral researcher - RITM Université Paris-Saclay, Sep 2022 - current.
+* Associate researcher - Medialab Sciences Po, Sep 2022 - current.
+* Post-doctoral researcher - Medialab Sciences Po, Feb 2021 - Aug 2022. 
+* Doctoral researcher - Université Paris 1 Panthéon-Sorbonne & PSE, Sep 2016 - Jan 2021. 
 
 Diplomas
 ---
