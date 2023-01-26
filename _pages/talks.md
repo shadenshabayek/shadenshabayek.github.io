@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-* “Content moderation in the age of DSA”, see the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html), Chair Good in Tech, Mines Télécom and Sciences Po, Paris, France, Jan 2023. 
+* “Content moderation in the age of DSA”, see the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html), Mines Télécom and Sciences Po, Paris, France, Jan 2023. 
 * Symposium Epidemie Pandemie Infodemie, Université Paris-Cité et Institut Pasteur, Paris, France, Dec 2022. 
 * Séminaire CREM, Université de Rennes, France, Dec 2022. 
-* “Première journée d'étude de l'ARCOM”, keynote speech, see the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop), ARCOM, Paris, France, Nov 2022.
+* “Première journée d'étude de l'ARCOM”, keynote speech, see the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop), France, Nov 2022.
 * Interactions [seminar](https://www.amse-aixmarseille.fr/fr/evenements/shaden-shabayek), AMSE, Marseille, France, June 2022
 * De Facto [seminar](https://defacto-observatoire.fr/Actus/Vendredi-3-juin-troisieme-seminaire-de-recherche-DE-FACTO/), Sciences Po, Paris, France, June 2022
 * ICA Pre-[Conference](https://citap.unc.edu/ica-preconference-2022/): What Comes After Disinformation Studies? Paris, France, May 2022
