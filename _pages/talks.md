@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-* “Content moderation in the age of DSA”, see the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html), Mines Télécom and Sciences Po, Paris, France, Jan 2023. 
+* "La liberté d'expression et l'ère numérique", [Colloque](https://www.courdecassation.fr/agenda-evenementiel/la-liberte-dexpression-et-lere-numerique) coorganisé par l’ARCOM et la Cour de cassation, Paris, France, Feb 2023. 
+* “Content moderation in the age of DSA”, see the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html), Mines Télécom and Sciences Po, Paris, France, Jan 2023. Check out the talk: [here](https://twitter.com/ScPoChaireDGS/status/1626282542096687106). 
 * Symposium Epidemie Pandemie Infodemie, Université Paris-Cité et Institut Pasteur, Paris, France, Dec 2022. 
 * Séminaire CREM, Université de Rennes, France, Dec 2022. 
 * “Première journée d'étude de l'ARCOM”, keynote speech, see the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop), France, Nov 2022.
