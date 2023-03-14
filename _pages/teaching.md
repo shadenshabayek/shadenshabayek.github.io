@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Lecturer (fall 2022)
+Lecturer (fall 2022) - Sciences Po
 ---
 
-* Digital Culture: ccourse coordinated by Thomas Tari and Dominique Cardon (Sciences Po, Reims campus) 
+* Digital Culture: course coordinated by Thomas Tari and Dominique Cardon. 
 
-Guest Lecturer / teaching seminar (2021-2022)
+Guest Lecturer / teaching seminar (2021-2023)
 ---
 
-* Fake News, Rumors & Information diffusion, one lecture, undergraduate level (Université Paris sud)
-* Misinformation & Digital Platforms' Governance, one lecture, graduate level (Centre de Recherches Interdisciplinaires)
+* Gouvernance des grandes plateformes: enjeux et perspectives, undergraduate level (3h) - Université d'Angers.
+* Fake News, Rumors & Information diffusion, one lecture, undergraduate level (3h) - Université Paris sud.
+* Misinformation & Digital Platforms' Governance, one lecture, graduate level - Centre de Recherches Interdisciplinaires. 
 
 
 Teaching Assistant - [Pantheon-Sorbonne Paris I](http://www.pantheonsorbonne.fr/) (2016-2021)
