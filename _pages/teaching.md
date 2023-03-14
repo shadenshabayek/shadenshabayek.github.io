@@ -12,9 +12,9 @@ redirect_from:
 Lecturer (fall 2022) - Sciences Po
 ---
 
-* Digital Culture: course coordinated by Thomas Tari and Dominique Cardon. 
+* Digital Culture: course coordinated by Thomas Tari and Dominique Cardon, Reims Campus. 
 
-Guest Lecturer / teaching seminar (2021-2023)
+Guest Lecturer & teaching seminars (2021-2023)
 ---
 
 * Gouvernance des grandes plateformes: enjeux et perspectives, undergraduate level (3h) - Université d'Angers.
