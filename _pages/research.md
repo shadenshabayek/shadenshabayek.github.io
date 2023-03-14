@@ -26,7 +26,9 @@ Research
 Work in progress 
 ---
 
-* Online climate discourses in interaction
+* Online Influence strategies in Elite political spheres, with M. Comola (2023). 
+
+* Online climate discourses in interaction (2022). 
 
 * Strategic cultural migration with peer effects, joint with Alexia Lochmann (2020).
 
