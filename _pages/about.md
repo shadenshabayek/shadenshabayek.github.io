@@ -14,7 +14,7 @@ I am also an associate researcher at [SciencesPo Médialab](https://medialab.sci
 
 Research interests
 --
-Social Networks, Opinion Dynamics, Misinformation, Ignorance studies. 
+Social Networks, Opinion Dynamics, Misinformation, Ignorance studies, Governance of Digital Platforms. 
 
 
 
