@@ -29,7 +29,7 @@ Teaching Assistant - [Pantheon-Sorbonne Paris I](http://www.pantheonsorbonne.fr/
 * Statistics and Probability, undergraduate/bachelor level.
 * Social protection and institutions (history, health and pensions), undergraduate/bachelor level.
 
-Teaching Assistant - [Louvain School of Management](https://uclouvain.be/fr/facultes/lsm) (2015-2016)
+Teaching Assistant - [Université Catholique de Louvain](https://uclouvain.be/fr/facultes/lsm) (2015-2016)
 ---
 
 * Management Science (linear programming, network optimization, integer programming, and decision trees, etc.), undergraduate/bachelor level.
