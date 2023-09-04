@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher at Université Paris-Saclay and associate researcher at SciencesPo Médialab.
+I am currently a Research  &  Data scientists at the [Center of Expertise for Digital Platform regulation](https://www.peren.gouv.fr/en/) (PEReN), a center placed under the joint authority of the French Ministers of Economy, Culture and Digital Technology. <br>
+
+I am also an associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/).
 
 Research interests
 --
