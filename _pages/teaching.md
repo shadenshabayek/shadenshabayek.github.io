@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Lecturer (fall 2022) - Sciences Po
+Lecturer (fall 2022, fall 2023) - Sciences Po
 ---
 
 * Digital Culture: course coordinated by Thomas Tari and Dominique Cardon, Reims Campus. 
