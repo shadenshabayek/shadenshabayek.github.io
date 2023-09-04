@@ -20,7 +20,7 @@ Research
 
 * A model of Elite interactions and Hidden Opininions (2022)
 
-* [Targeting in social networks with anonymized information]([https://arxiv.org/abs/2001.03122](https://www.sciencedirect.com/science/article/abs/pii/S0899825623000921)), Games and Economic behavior (2023) with F. Bloch.
+* [Targeting in social networks with anonymized information](https://www.sciencedirect.com/science/article/abs/pii/S0899825623000921), Games and Economic behavior (2023) with F. Bloch.
 
 
 Work in progress 
