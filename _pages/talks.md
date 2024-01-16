@@ -12,9 +12,9 @@ redirect_from:
 * Economics [Seminar](http://www.ritm.universite-paris-saclay.fr/shaden-shabayek-universite-paris-saclay-universite-paris-1-at-the-economics-seminar-of-paris-saclay-ceps-epee-and-ritm/) of paris-Saclay, Université Paris Saclay, April 2023. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".* 
 * "La liberté d'expression et l'ère numérique", [Colloque](https://www.courdecassation.fr/agenda-evenementiel/la-liberte-dexpression-et-lere-numerique) coorganisé par l’ARCOM et la Cour de cassation, Paris, France, Feb 2023. 
-* “Content moderation in the age of DSA”, Mines Télécom and Sciences Po, Paris, France, Jan 2023. Check out the talk: [here](https://twitter.com/ScPoChaireDGS/status/1626282542096687106).
+* “Content moderation in the age of DSA”, Mines Télécom and Sciences Po, Paris, France, Jan 2023. Check out the talk: [here](https://twitter.com/ScPoChaireDGS/status/1626282542096687106). <br>
 *See the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html)*
-* Symposium Epidemie Pandemie Infodemie, Université Paris-Cité et Institut Pasteur, Paris, France, Dec 2022.
+* Symposium Epidemie Pandemie Infodemie, Université Paris-Cité et Institut Pasteur, Paris, France, Dec 2022.<br>
 *See the [program](https://research.pasteur.fr/wp-content/uploads/2022/11/research_pasteur-dpt-sante-globale-symposium-epidemie-pandemie-infodemie-lautre-urgence-sanitaire-sympo-infodemie-prog-web.pdf)*
 * [Séminaire](https://www.univ-rennes.fr/evenements-0/seminaire-crem-a-model-of-elite-interactions-and-hidden-opinions) CREM, Université de Rennes, France, Dec 2022. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".*  
