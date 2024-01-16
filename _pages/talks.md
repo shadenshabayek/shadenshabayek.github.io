@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-* Journée d'étude: Entre dés/mésinformation et savoirs spécialisés : les “expertises” sur les médias sociaux pendant l’épidémie de COVID-19, Medialab Sciences Po, Paris, May 2023. See [program](https://medialab.sciencespo.fr/actu/entre-desmesinformation-et-savoirs-specialises-les-expertises-sur-les-medias-sociaux-pendant-lepidemie-de-covid/). <br>
+* Journée d'étude: Entre dés/mésinformation et savoirs spécialisés : les “expertises” sur les médias sociaux pendant l’épidémie de COVID-19, Medialab Sciences Po, Paris, May 2023. <br>
+*See the [program](https://medialab.sciencespo.fr/actu/entre-desmesinformation-et-savoirs-specialises-les-expertises-sur-les-medias-sociaux-pendant-lepidemie-de-covid/).* 
 * Economics [Seminar](http://www.ritm.universite-paris-saclay.fr/shaden-shabayek-universite-paris-saclay-universite-paris-1-at-the-economics-seminar-of-paris-saclay-ceps-epee-and-ritm/) of paris-Saclay, Université Paris Saclay, April 2023. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".* 
 * "La liberté d'expression et l'ère numérique", [Colloque](https://www.courdecassation.fr/agenda-evenementiel/la-liberte-dexpression-et-lere-numerique) coorganisé par l’ARCOM et la Cour de cassation, Paris, France, Feb 2023. 
