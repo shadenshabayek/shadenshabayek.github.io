@@ -18,7 +18,8 @@ redirect_from:
 *See the [program](https://research.pasteur.fr/wp-content/uploads/2022/11/research_pasteur-dpt-sante-globale-symposium-epidemie-pandemie-infodemie-lautre-urgence-sanitaire-sympo-infodemie-prog-web.pdf)*
 * [Séminaire](https://www.univ-rennes.fr/evenements-0/seminaire-crem-a-model-of-elite-interactions-and-hidden-opinions) CREM, Université de Rennes, France, Dec 2022. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".*  
-* “Première journée d'étude de l'ARCOM”, keynote speech, see the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop), France, Nov 2022. Check out the replay: [video](https://www.arcom.fr/actualites/premiere-journee-detudes-de-larcom-presentations-des-travaux-des-chercheurs-sur-les-medias-audiovisuels-et-numeriques). <br>
+* “Première journée d'étude de l'ARCOM”, keynote speech, France, Nov 2022. Check out the replay: [video](https://www.arcom.fr/actualites/premiere-journee-detudes-de-larcom-presentations-des-travaux-des-chercheurs-sur-les-medias-audiovisuels-et-numeriques). <br>
+*See the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop)*
 * Interactions [seminar](https://www.amse-aixmarseille.fr/fr/evenements/shaden-shabayek), AMSE, Marseille, France, June 2022. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".*  <br>
 * De Facto [seminar](https://defacto-observatoire.fr/Actus/Vendredi-3-juin-troisieme-seminaire-de-recherche-DE-FACTO/), Sciences Po, Paris, France, June 2022 <br>
