@@ -21,7 +21,7 @@ Social Networks, Opinion Dynamics, Misinformation, Ignorance studies, Governance
 Do you want to get in touch with me?
 --
 * If you are also a fan of postcards and letters: *Address coming soon*.
-* If you prefer emails : shaden.shabayek@sciencespo.fr
+* If you prefer emails : shaden.shabayek{at}sciencespo.fr or shaden.shabayek{at}ens-paris-saclay.fr
 
 
 
