@@ -16,7 +16,7 @@ redirect_from:
 * “Content moderation in the age of DSA”, Mines Télécom and Sciences Po, Paris, France, Jan 2023. Check out the talk: [here](https://twitter.com/ScPoChaireDGS/status/1626282542096687106). <br>
 *See the [program](https://www.dsacontentmoderationconference.fr/PROGRAM.html)*
 * Symposium Epidemie Pandemie Infodemie, Université Paris-Cité et Institut Pasteur, Paris, France, Dec 2022.<br>
-*See the [program](https://research.pasteur.fr/wp-content/uploads/2022/11/research_pasteur-dpt-sante-globale-symposium-epidemie-pandemie-infodemie-lautre-urgence-sanitaire-sympo-infodemie-prog-web.pdf)*
+*See the [program](https://research.pasteur.fr/wp-content/uploads/2022/11/research_pasteur-dpt-sante-globale-symposium-epidemie-pandemie-infodemie-lautre-urgence-sanitaire-sympo-infodemie-prog-web.pdf)*. I gave the following talk: *«Un éclairage sur les politiques de modération des contenus sur les réseaux sociaux»*
 * [Séminaire](https://www.univ-rennes.fr/evenements-0/seminaire-crem-a-model-of-elite-interactions-and-hidden-opinions) CREM, Université de Rennes, France, Dec 2022. <br>
 *I presented my working paper "A model of Elite interactions and Hidden Opininions".*  
 * “Première journée d'étude de l'ARCOM”, keynote speech, France, Nov 2022. Check out the replay: [video](https://www.arcom.fr/actualites/premiere-journee-detudes-de-larcom-presentations-des-travaux-des-chercheurs-sur-les-medias-audiovisuels-et-numeriques). <br>
