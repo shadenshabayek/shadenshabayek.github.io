@@ -26,17 +26,17 @@ redirect_from:
   - *See the [program](https://www.linkedin.com/posts/arcom-regulateur-communication-audiovisuelle-numerique_le-programme-activity-6997908922099499008-zphX/?utm_source=share&utm_medium=member_desktop)*
 - Interactions [seminar](https://www.amse-aixmarseille.fr/fr/evenements/shaden-shabayek), AMSE, Marseille, France, June 2022. <br>
   - *I presented my working paper "A model of Elite interactions and Hidden Opininions".*  <br>
-* De Facto [seminar](https://defacto-observatoire.fr/Actus/Vendredi-3-juin-troisieme-seminaire-de-recherche-DE-FACTO/), Sciences Po, Paris, France, June 2022 <br>
-* ICA Pre-[Conference](https://citap.unc.edu/ica-preconference-2022/): What Comes After Disinformation Studies? Paris, France, May 2022
-* Coalition Theory Network 25th [Conference](https://ctn2022.sciencesconf.org/data/pages/CTN_1.pdf), Barcelona, Spain, May 2022
-* Medialab [seminar](https://medialab.sciencespo.fr/en/news/suivi-des-interventions-liees-a-la-desinformation-sur-les-principales-plateformes-de-medias-sociaux/), Sciences Po, Paris, France, September 2021. <br>
-*I presented my working paper "A model of Elite interactions and Hidden Opininions".* 
-* CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/) (online), Paris, France, June 2020 <br>
-* TOM [seminar](https://www.parisschoolofeconomics.eu/en/research/seminars/lunch-s-theory-organisation-markets-tom/), Paris School of Economics (online), Paris, France , June 2020 <br>
-* [Conference](http://mechanismdesign.eu/uncoming-events/conference-on-economic-design-of-sed/163/) on Economic Design, Budapest, Hungary, June 2019 <br>
-* Coalition Theory Network 24th [Conference](http://www.coalitiontheory.net/content/24th-coalition-theory-network-workshop), Aix-en-Provence, France, May 2019 <br>
-* Networks reading group, University of Cambridge, Cambridge, UK, May 2019 <br>
-* 5th Annual [Conference](https://drive.google.com/file/d/1a7_-N_Vx5XbYDPymIQzWh_ksuvp5b8FY/view) on Network Science in Economics, Bloomington, USA, April 2019 <br>
-* [Spring Meetings of Young Economists](https://eaye.weebly.com/), Brussels, Belguim, April 2019 <br>
-* CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/), Paris , France, September 2018 <br>
-* [Summer School on Network Theory CIGNE](https://sites.google.com/site/cigneworkshop2017/), Roscoff, France, 2017 <br>
+- De Facto [seminar](https://defacto-observatoire.fr/Actus/Vendredi-3-juin-troisieme-seminaire-de-recherche-DE-FACTO/), Sciences Po, Paris, France, June 2022 <br>
+- ICA Pre-[Conference](https://citap.unc.edu/ica-preconference-2022/): What Comes After Disinformation Studies? Paris, France, May 2022
+- Coalition Theory Network 25th [Conference](https://ctn2022.sciencesconf.org/data/pages/CTN_1.pdf), Barcelona, Spain, May 2022
+  - *I presented my working paper "A model of Elite interactions and Hidden Opininions".* 
+- Medialab [seminar](https://medialab.sciencespo.fr/en/news/suivi-des-interventions-liees-a-la-desinformation-sur-les-principales-plateformes-de-medias-sociaux/), Sciences Po, Paris, France, September 2021. <br>
+- CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/) (online), Paris, France, June 2020 <br>
+- TOM [seminar](https://www.parisschoolofeconomics.eu/en/research/seminars/lunch-s-theory-organisation-markets-tom/), Paris School of Economics (online), Paris, France , June 2020 <br>
+- [Conference](http://mechanismdesign.eu/uncoming-events/conference-on-economic-design-of-sed/163/) on Economic Design, Budapest, Hungary, June 2019 <br>
+- Coalition Theory Network 24th [Conference](http://www.coalitiontheory.net/content/24th-coalition-theory-network-workshop), Aix-en-Provence, France, May 2019 <br>
+- Networks reading group, University of Cambridge, Cambridge, UK, May 2019 <br>
+- 5th Annual [Conference](https://drive.google.com/file/d/1a7_-N_Vx5XbYDPymIQzWh_ksuvp5b8FY/view) on Network Science in Economics, Bloomington, USA, April 2019 <br>
+- [Spring Meetings of Young Economists](https://eaye.weebly.com/), Brussels, Belguim, April 2019 <br>
+- CES Research Group Networks and Games [seminar](https://sites.google.com/site/cesworkinggroupnetworks/), Paris , France, September 2018 <br>
+- [Summer School on Network Theory CIGNE](https://sites.google.com/site/cigneworkshop2017/), Roscoff, France, 2017 <br>
