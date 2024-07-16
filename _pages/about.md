@@ -10,11 +10,11 @@ redirect_from:
 
 I am currently a Research  &  Data scientist at the [Center of Expertise for Digital Platform regulation](https://www.peren.gouv.fr/en/) (PEReN), a center placed under the joint authority of the French Ministries of Economy, Culture and Digital Technology. <br>
 
-I am also an associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/).
+I am also an associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/) and at [Institut des Systèmes Complexes](https://iscpif.fr/projects/shaden-shabayek/). 
 
 Research interests
 --
-Social Networks, Opinion Dynamics, Misinformation, Ignorance studies, Governance of Digital Platforms. 
+Social Networks, Opinion Dynamics, Content moderation, misinformation, Governance of Digital Platforms, fairness in machine learning. 
 
 
 
@@ -32,4 +32,5 @@ Current & Future Research agenda :bulb:
 
 * I am passionate about understanding opinion dynamics especially the drivers of **opinions polarization**. 
 * I am also interested in misinformation with a special focus on actors, reactance to misinformation policies on mainstream platforms and migration towards **alternative platforms** such as Telegram. 
-* I am more and more interested in combining qualitative and quantitive methods. 
+* I am more and more interested in combining qualitative and quantitive methods.
+  
