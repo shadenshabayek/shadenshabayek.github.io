@@ -22,7 +22,7 @@ Research
 
 * [Monitoring misinformation related interventions by Facebook, Twitter and YouTube: methods and illustration.](https://hal.archives-ouvertes.fr/hal-03662191), Shabayek S., Thero H., AlManla D., Vincent E.(2022).
 
-* [A model of Elite interactions and Hidden Opininions](https://hal.science/hal-04649036v1/file/ho_2024_07_14_shabayek.pdf), **Working papaer** (2024)
+* [A model of Elite interactions and Hidden Opininions](https://hal.science/hal-04649036v1/file/ho_2024_07_14_shabayek.pdf), **Working paper** (2024)
 
 Work in progress 
 ---
