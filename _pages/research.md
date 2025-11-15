@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Published Articles
+Published papers
 ---
 * [A model of Elite interactions and hidden opinions](https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2529173), **Journal of Mathematical Sociology** (2025)
 * [Targeting in social networks with anonymized information](https://www.sciencedirect.com/science/article/abs/pii/S0899825623000921), **Games and Economic behavior** Bloch F. and Shabayek S. (2023)
