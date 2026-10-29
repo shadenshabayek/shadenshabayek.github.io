@@ -11,7 +11,8 @@ redirect_from:
 
 Published papers
 ---
-* Exploring LLM Performance for Sexist Hate Speech Detection on French Social Media, *In press*, Accepted at the [10th Workshop on Online Abuse and Harms](https://www.thewoah.org/) (2026), Shaden Shabayek, Camilla Penzo, Eunkyung Lee, Farah Benamara, Véronique Moriceau, Gohar Dashyan.
+* [Exploring LLM Performance for Sexist Hate Speech Detection on French Social Media](https://aclanthology.org/2026.woah-1.21/), In Proceedings of the 10th Workshop on Online Abuse and Harms (WOAH), pages 234–248, Budapest, Hungary. Association for Computational Linguistics. Shaden Shabayek, Camilla Penzo, Eunkyung Lee, Farah Benamara, Véronique Moriceau, Gohar Dashyan. (2026)
+  
 * [A model of Elite interactions and hidden opinions](https://www.tandfonline.com/doi/full/10.1080/0022250X.2025.2529173), **Journal of Mathematical Sociology** (2025)
   
 * [Targeting in social networks with anonymized information](https://www.sciencedirect.com/science/article/abs/pii/S0899825623000921), **Games and Economic behavior** Bloch F. and Shabayek S. (2023)
