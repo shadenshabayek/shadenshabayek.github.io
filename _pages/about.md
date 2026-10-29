@@ -11,7 +11,7 @@ I am currently an associate professor of Economics at Université Evry Paris-Sac
 
 Previously, I was a Research  &  Data scientist at the [Center of Expertise for Digital Platform regulation](https://www.peren.gouv.fr/en/) (PEReN), a center placed under the joint authority of the French Ministries of Economy, Culture and Digital Technology. <br>
 
-I am also an associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/) and at [Institut des Systèmes Complexes](https://iscpif.fr/projects/shaden-shabayek/). I hold a Phd in Economics, I defended my thesis [Behavior, opinion formation and cultural identity in social networks](https://theses.hal.science/tel-03383378/) in 2021 at University Paris 1 and Paris School of Economics, under the supervision of prof. Francis Bloch. 
+I am also an associate researcher at [SciencesPo Médialab](https://medialab.sciencespo.fr/). I hold a Phd in Economics, I defended my thesis [Behavior, opinion formation and cultural identity in social networks](https://theses.hal.science/tel-03383378/) in 2021 at University Paris 1 and Paris School of Economics, under the supervision of prof. Francis Bloch. 
 
 Research interests
 --
@@ -21,8 +21,7 @@ Social Networks, Opinion Dynamics, Content moderation, misinformation, Governanc
 
 Do you want to get in touch with me?
 --
-* If you are also a fan of postcards and letters: *Address coming soon*.
-* If you prefer emails : shaden.shabayek{at}sciencespo.fr or shaden.shabayek{at}ens-paris-saclay.fr
+* emails : shaden.shabayek{at}univ-evry.fr or shaden.shabayek{at}ens-paris-saclay.fr
 
 
 
